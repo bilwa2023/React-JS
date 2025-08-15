@@ -1,0 +1,11 @@
+
+.banner{
+    background-image: url('/Netflix-banner.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.shade{
+    background-color: rgba(0, 0,0,0.7);
+    height: 100vh;
+}
