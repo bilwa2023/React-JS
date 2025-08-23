@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+}
+.container{
+    border: 1px solid gray;
+    border-radius: 10px;
+    background: linear-gradient( to bottom,
+        rgba(255, 153, 51, 0.4) 30%,      /* saffron */
+    rgba(255, 153, 51, 0.4) 33%,      
+    rgba(255, 255, 255, 0.4) 37%,     /* white */
+    rgba(255, 255, 255, 0.4) 63%,     
+    rgba(19, 136, 8, 0.4) 67%,        /* green */
+    rgba(19, 136, 8, 0.4) 70%
+    )
+}
+h1{
+    color: blue;
+    text-shadow: 10px;
+}
